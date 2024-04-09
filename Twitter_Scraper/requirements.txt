@@ -1,0 +1,8 @@
+certifi==2023.7.22
+geopy==2.3.0
+locationtagger==0.0.1
+nltk==3.8.1
+pymongo==4.3.3
+python-dotenv==1.0.0
+selenium==4.16.0
+webdriver_manager==4.0.0
